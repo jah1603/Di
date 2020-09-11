@@ -22,7 +22,7 @@
     "faker": "^4.1.0",
     "lodash": "^4.17.11",
     "native-base": "^2.8.1",
-    "node-fetch": "^2.2.1",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.18.5",
     "react": "16.3.1",
     "react-axios": "^2.0.1",
